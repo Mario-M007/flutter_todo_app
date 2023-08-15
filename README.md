@@ -1,6 +1,6 @@
-# flutter_application_1
+# flutter_todo_app
 
-A new Flutter project.
+Head to the main.dart file and run it to launch the application
 
 ## Getting Started
 
