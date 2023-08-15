@@ -1,6 +1,6 @@
 # flutter_todo_app
 
-Head to the main.dart file and run it to launch the application
+Head to the lib folder and run the main.dart file to launch the application
 
 ## Getting Started
 
